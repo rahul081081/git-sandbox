@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git2 in Gitsand-box
+=======
+sandbox2
+>>>>>>> 1687ad31e30d646c0f641b1446e64874d8f26f79
